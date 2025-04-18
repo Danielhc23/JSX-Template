@@ -16,7 +16,7 @@ A ready to use template to use JavaScript with ShadCN UI, built with Vite. Usual
 
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/Danielhc23/JSX-Template.git
 ```
 
 2. Change directory:
